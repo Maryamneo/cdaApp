@@ -49,7 +49,6 @@ const Home = () => {
         <View style={styles.Viewthree}>
         <Timeline/>
             </View>
-            
 
            
    
